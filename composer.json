@@ -1,0 +1,10 @@
+{
+    "name": "tamakiii-sandbox/php-array-collection",
+    "authors": [
+        {
+            "name": "tamakiii",
+            "email": "tamakiii@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
