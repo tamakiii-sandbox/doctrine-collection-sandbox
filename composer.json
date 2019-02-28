@@ -6,5 +6,7 @@
             "email": "tamakiii@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "doctrine/collections": "^1.5"
+    }
 }
