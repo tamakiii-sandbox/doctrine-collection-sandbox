@@ -1,5 +1,7 @@
 # doctrine-collection-sandbox
 
+- http://php.net/manual/en/language.types.iterable.php
+
 ~~~sh
 /tmp/php init*
 $ php -v
